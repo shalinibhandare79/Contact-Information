@@ -3,9 +3,10 @@
 ### Folder Structure
 
 The designed application is used for maintaining contact information. Folder structure of the application is as below:
+ 	
 
-    .
-    ├── Scripts                    # Controller and module files
+    .contact_Information
+    ├──  Scripts                    # Controller and module files
     ├──  Templates                 # HTML files(index.html,list.html)
     ├──  Media                     # image, JSON file
     ├──  styles                    # CSS files(contact.css)

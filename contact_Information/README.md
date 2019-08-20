@@ -6,7 +6,7 @@ The designed application is used for maintaining contact information. Folder str
  	
 
     .contact_Information
-    ├──  Scripts                    # Controller and module files
+    ├──  Scripts                   # Controller and module files
     ├──  Templates                 # HTML files(index.html,list.html)
     ├──  Media                     # image, JSON file
     ├──  styles                    # CSS files(contact.css)
@@ -20,7 +20,6 @@ The designed application is used for maintaining contact information. Folder str
   - [JAVA/JDK8]
   - [Visual studio] or any editor
   - [XAMPP](https://www.apachefriends.org/index.html)
-  - [NPM]
 
 ### Running
 
